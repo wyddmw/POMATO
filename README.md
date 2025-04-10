@@ -3,7 +3,7 @@
 for Dynamic 3D Reconstruction</h1>
 
 <p align="center">
-<a href="https://arxiv.org/abs/2504.05692"><img src="https://img.shields.io/badge/ArXiv-2412.19505-%23840707.svg" alt="ArXiv"></a>
+<a href="https://arxiv.org/abs/2504.05692"><img src="https://img.shields.io/badge/ArXiv-2504.05692-%23840707.svg" alt="ArXiv"></a>
 </p>
 
 Songyan Zhang<sup>1*</sup>, Yongtao Ge<sup>2,3*</sup>, Jinyuan Tian<sup>2*</sup>, Hao Chen<sup>2†</sup>, Chen Lv<sup>1</sup>, Chunhua Shen<sup>2</sup>

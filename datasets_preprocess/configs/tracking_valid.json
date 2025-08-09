@@ -1,0 +1,1020 @@
+{
+    "adt": {
+        "12_2": {
+            "Apartment_release_clean_seq140_3": [
+                8,
+                70,
+                65,
+                19
+            ],
+            "Apartment_release_clean_seq145_7": [
+                148,
+                153,
+                59,
+                23,
+                84
+            ],
+            "Apartment_release_decoration_seq133_6": [
+                181,
+                277,
+                215,
+                129
+            ],
+            "Apartment_release_decoration_seq135_7": [
+                2,
+                235,
+                72,
+                180,
+                104
+            ],
+            "Apartment_release_decoration_seq138_5": [
+                15,
+                36,
+                23,
+                181
+            ],
+            "Apartment_release_decoration_seq138_6": [
+                252,
+                239,
+                102,
+                97
+            ],
+            "Apartment_release_decoration_skeleton_seq134_4": [
+                8,
+                148,
+                219,
+                6,
+                157
+            ],
+            "Apartment_release_meal_seq133_5": [
+                224,
+                91,
+                247,
+                105,
+                61
+            ],
+            "Apartment_release_meal_seq136_2": [
+                195,
+                142
+            ],
+            "Apartment_release_meal_seq136_8": [
+                125,
+                113,
+                35,
+                210,
+                102
+            ],
+            "Apartment_release_meal_seq138_4": [
+                225,
+                44,
+                200,
+                0
+            ],
+            "Apartment_release_meal_seq147_3": [
+                0
+            ],
+            "Apartment_release_multiskeleton_party_seq117_4": [
+                120,
+                34,
+                123,
+                27,
+                182
+            ],
+            "Apartment_release_multiskeleton_party_seq121_1": [
+                170,
+                261,
+                214,
+                22
+            ],
+            "Apartment_release_multiskeleton_party_seq121_2": [
+                38
+            ],
+            "Apartment_release_multiskeleton_party_seq122_5": [
+                150,
+                131,
+                247
+            ],
+            "Apartment_release_multiskeleton_party_seq126_8": [
+                171,
+                129,
+                107,
+                212,
+                31
+            ],
+            "Apartment_release_multiuser_clean_seq119_4": [
+                154
+            ],
+            "Apartment_release_multiuser_cook_seq111_7": [
+                101,
+                178
+            ],
+            "Apartment_release_multiuser_cook_seq115_8": [
+                151,
+                164,
+                71
+            ],
+            "Apartment_release_multiuser_cook_seq117_4": [
+                33,
+                148,
+                166,
+                24
+            ],
+            "Apartment_release_multiuser_cook_seq118_8": [
+                246,
+                233,
+                147,
+                248,
+                227
+            ],
+            "Apartment_release_multiuser_cook_seq144_4": [
+                7,
+                266,
+                246,
+                27,
+                147
+            ],
+            "Apartment_release_multiuser_meal_seq134_0": [
+                59,
+                93,
+                28,
+                202,
+                145
+            ],
+            "Apartment_release_multiuser_meal_seq139_5": [
+                165,
+                43,
+                173,
+                186,
+                128
+            ],
+            "Apartment_release_multiuser_party_seq133_3": [
+                215,
+                252,
+                246,
+                94
+            ],
+            "Apartment_release_multiuser_party_seq134_7": [
+                82,
+                128,
+                79
+            ],
+            "Apartment_release_work_seq106_2": [
+                189,
+                228,
+                166,
+                167,
+                152
+            ],
+            "Apartment_release_work_seq107_4": [
+                226,
+                166,
+                184,
+                179,
+                93
+            ],
+            "Apartment_release_work_seq108_5": [
+                171,
+                113,
+                250,
+                60
+            ],
+            "Apartment_release_work_seq109_7": [
+                41,
+                129,
+                44
+            ],
+            "Apartment_release_work_seq140_1": [
+                73,
+                263,
+                275,
+                267,
+                3
+            ],
+            "Apartment_release_work_skeleton_seq136_2": [
+                271,
+                247,
+                65,
+                133,
+                253
+            ],
+            "Apartment_release_work_skeleton_seq138_3": [
+                52,
+                167,
+                212,
+                227
+            ],
+            "Apartment_release_work_skeleton_seq138_5": [
+                120,
+                85,
+                240,
+                107
+            ],
+            "Lite_release_recognition_BirdHouseToy_seq030_6": [
+                33,
+                242,
+                96,
+                214,
+                11
+            ],
+            "Lite_release_recognition_BlackCeramicBowl_seq033_3": [
+                192,
+                160,
+                162,
+                107,
+                157
+            ],
+            "Lite_release_recognition_BookDeepLearning_seq032_1": [
+                45,
+                8,
+                250,
+                77,
+                93
+            ],
+            "Lite_release_recognition_BookDeepLearning_seq032_5": [
+                243,
+                236,
+                249,
+                47,
+                206
+            ],
+            "Lite_release_recognition_DinoToy_seq031_3": [
+                39,
+                108,
+                195,
+                126,
+                40
+            ],
+            "Lite_release_recognition_Flask_seq033_2": [
+                242,
+                27,
+                106,
+                181,
+                111
+            ],
+            "Lite_release_recognition_GreenDecorationTall_seq031_6": [
+                85,
+                80,
+                98,
+                248,
+                79
+            ],
+            "Lite_release_recognition_WoodenBowl_seq032_1": [
+                7,
+                263,
+                209,
+                269,
+                175
+            ],
+            "Lite_release_recognition_WoodenBoxSmall_seq031_2": [
+                213,
+                239,
+                140,
+                203,
+                258
+            ],
+            "Lite_release_recognition_WoodenBoxSmall_seq033_1": [
+                224,
+                257,
+                42,
+                139,
+                83
+            ],
+            "Lite_release_recognition_WoodenFork_seq032_1": [
+                229,
+                187,
+                169,
+                144,
+                13
+            ]
+        },
+        "24_2": {
+            "Apartment_release_clean_seq140_3": [
+                62,
+                13,
+                141,
+                146,
+                86
+            ],
+            "Apartment_release_clean_seq145_7": [
+                35,
+                138,
+                90,
+                164,
+                16,
+                197
+            ],
+            "Apartment_release_decoration_seq133_6": [
+                233,
+                180,
+                37,
+                34,
+                107
+            ],
+            "Apartment_release_decoration_seq135_7": [
+                82,
+                141,
+                208,
+                76,
+                74,
+                10
+            ],
+            "Apartment_release_decoration_seq138_5": [
+                3,
+                68,
+                236,
+                188,
+                197
+            ],
+            "Apartment_release_decoration_seq138_6": [
+                249,
+                77,
+                90
+            ],
+            "Apartment_release_decoration_skeleton_seq134_4": [
+                186,
+                65,
+                14,
+                232,
+                11,
+                0
+            ],
+            "Apartment_release_meal_seq133_5": [
+                190,
+                70,
+                9,
+                208,
+                74,
+                106
+            ],
+            "Apartment_release_meal_seq136_2": [
+                134,
+                98,
+                33,
+                83
+            ],
+            "Apartment_release_meal_seq136_8": [
+                60,
+                51,
+                220,
+                40,
+                76,
+                193
+            ],
+            "Apartment_release_meal_seq138_4": [
+                17,
+                91,
+                53,
+                36,
+                200,
+                74
+            ],
+            "Apartment_release_meal_seq147_3": [
+                108,
+                76,
+                74,
+                4
+            ],
+            "Apartment_release_multiskeleton_party_seq117_4": [
+                186,
+                113,
+                243,
+                150,
+                21,
+                106
+            ],
+            "Apartment_release_multiskeleton_party_seq121_1": [
+                26,
+                116,
+                223,
+                236,
+                154
+            ],
+            "Apartment_release_multiskeleton_party_seq121_2": [
+                20
+            ],
+            "Apartment_release_multiskeleton_party_seq122_5": [
+                191,
+                248,
+                109,
+                182
+            ],
+            "Apartment_release_multiskeleton_party_seq126_8": [
+                63,
+                149,
+                12,
+                243,
+                75,
+                45
+            ],
+            "Apartment_release_multiuser_clean_seq119_4": [
+                150
+            ],
+            "Apartment_release_multiuser_cook_seq111_7": [
+                233,
+                167,
+                114,
+                176,
+                205
+            ],
+            "Apartment_release_multiuser_cook_seq115_8": [
+                136,
+                161
+            ],
+            "Apartment_release_multiuser_cook_seq117_4": [
+                152,
+                187,
+                165,
+                158,
+                8,
+                30
+            ],
+            "Apartment_release_multiuser_cook_seq118_8": [
+                139,
+                147,
+                155,
+                34,
+                97,
+                144
+            ],
+            "Apartment_release_multiuser_cook_seq144_4": [
+                62,
+                224,
+                108,
+                144,
+                22,
+                42
+            ],
+            "Apartment_release_multiuser_meal_seq134_0": [
+                67,
+                113,
+                158,
+                34,
+                24,
+                47
+            ],
+            "Apartment_release_multiuser_meal_seq139_5": [
+                202,
+                246,
+                1,
+                244,
+                204,
+                248
+            ],
+            "Apartment_release_multiuser_party_seq133_3": [
+                99,
+                133,
+                59,
+                245,
+                15,
+                9
+            ],
+            "Apartment_release_multiuser_party_seq134_7": [
+                99,
+                52,
+                191,
+                174,
+                102
+            ],
+            "Apartment_release_work_seq106_2": [
+                148,
+                85,
+                23,
+                240,
+                146,
+                176
+            ],
+            "Apartment_release_work_seq107_4": [
+                251,
+                246,
+                34,
+                200,
+                140,
+                239
+            ],
+            "Apartment_release_work_seq108_5": [
+                245,
+                88,
+                11,
+                209,
+                193,
+                0
+            ],
+            "Apartment_release_work_seq109_7": [
+                67,
+                66,
+                179
+            ],
+            "Apartment_release_work_seq140_1": [
+                181,
+                186,
+                88,
+                90,
+                29,
+                70
+            ],
+            "Apartment_release_work_skeleton_seq136_2": [
+                67,
+                133,
+                190,
+                31,
+                212
+            ],
+            "Apartment_release_work_skeleton_seq138_3": [
+                123,
+                216,
+                108
+            ],
+            "Apartment_release_work_skeleton_seq138_5": [
+                233,
+                196,
+                108,
+                206
+            ],
+            "Lite_release_recognition_BirdHouseToy_seq030_6": [
+                221,
+                26,
+                210,
+                107,
+                173,
+                146
+            ],
+            "Lite_release_recognition_BlackCeramicBowl_seq033_3": [
+                213,
+                220,
+                91,
+                36,
+                76,
+                21
+            ],
+            "Lite_release_recognition_BookDeepLearning_seq032_1": [
+                99,
+                213,
+                236,
+                141,
+                173,
+                164
+            ],
+            "Lite_release_recognition_BookDeepLearning_seq032_5": [
+                149,
+                81,
+                34,
+                127,
+                32,
+                42
+            ],
+            "Lite_release_recognition_DinoToy_seq031_3": [
+                143,
+                221,
+                214,
+                98,
+                229,
+                109
+            ],
+            "Lite_release_recognition_Flask_seq033_2": [
+                191,
+                208,
+                173,
+                96,
+                193,
+                83
+            ],
+            "Lite_release_recognition_GreenDecorationTall_seq031_6": [
+                213,
+                98,
+                200,
+                192,
+                201,
+                44
+            ],
+            "Lite_release_recognition_WoodenBowl_seq032_1": [
+                233,
+                213,
+                180,
+                131,
+                19,
+                0
+            ],
+            "Lite_release_recognition_WoodenBoxSmall_seq031_2": [
+                134,
+                187,
+                194,
+                207,
+                20,
+                19
+            ],
+            "Lite_release_recognition_WoodenBoxSmall_seq033_1": [
+                187,
+                52,
+                7,
+                39,
+                107,
+                185
+            ],
+            "Lite_release_recognition_WoodenFork_seq032_1": [
+                73,
+                72,
+                231,
+                161,
+                83,
+                179
+            ]
+        }
+    },
+    "pstudio": {
+        "12_2": {
+            "basketball_20": [
+                125
+            ],
+            "basketball_29": [
+                32,
+                123,
+                103,
+                97
+            ],
+            "basketball_3": [
+                39,
+                22,
+                91,
+                77
+            ],
+            "basketball_9": [
+                110,
+                82
+            ],
+            "boxes_11": [
+                41,
+                12,
+                109,
+                108
+            ],
+            "boxes_12": [
+                101,
+                119,
+                51,
+                27,
+                76
+            ],
+            "boxes_19": [
+                116,
+                32,
+                61,
+                47
+            ],
+            "boxes_22": [
+                66,
+                60,
+                111
+            ],
+            "boxes_28": [
+                112,
+                23,
+                65,
+                81
+            ],
+            "boxes_29": [
+                125,
+                55,
+                10,
+                22,
+                31
+            ],
+            "boxes_5": [
+                15,
+                0,
+                105,
+                67,
+                83
+            ],
+            "boxes_6": [
+                113,
+                108,
+                98,
+                82,
+                102
+            ],
+            "boxes_7": [
+                42,
+                119,
+                61,
+                50
+            ],
+            "juggle_22": [
+                18,
+                100,
+                119,
+                114,
+                51
+            ],
+            "juggle_5": [
+                4,
+                49,
+                29,
+                40,
+                46
+            ],
+            "juggle_7": [
+                94,
+                123,
+                23,
+                24,
+                106
+            ],
+            "juggle_8": [
+                45,
+                73,
+                20,
+                110,
+                13
+            ],
+            "juggle_9": [
+                41,
+                119,
+                71,
+                27,
+                67
+            ],
+            "softball_14": [
+                40,
+                43,
+                10,
+                38
+            ],
+            "softball_2": [
+                125,
+                30,
+                16,
+                56,
+                14
+            ],
+            "softball_21": [
+                52,
+                13,
+                63
+            ],
+            "softball_23": [
+                124,
+                105,
+                68,
+                111
+            ],
+            "softball_25": [
+                49,
+                69,
+                11,
+                9
+            ],
+            "softball_9": [
+                57,
+                62,
+                5,
+                92
+            ],
+            "tennis_2": [
+                60,
+                75,
+                86,
+                22
+            ],
+            "tennis_22": [
+                121,
+                105,
+                111
+            ],
+            "tennis_23": [
+                62,
+                96,
+                106
+            ],
+            "tennis_26": [
+                120,
+                41,
+                107,
+                122
+            ],
+            "tennis_28": [
+                85,
+                66,
+                43,
+                103
+            ],
+            "tennis_5": [
+                120,
+                115,
+                71
+            ]
+        },
+        "24_2": {
+            "basketball_29": [
+                63,
+                59,
+                39,
+                1,
+                47,
+                4
+            ],
+            "basketball_3": [
+                64,
+                79,
+                90,
+                24,
+                32,
+                4
+            ],
+            "basketball_9": [
+                88
+            ],
+            "boxes_11": [
+                98,
+                26,
+                81,
+                76,
+                47,
+                57
+            ],
+            "boxes_12": [
+                98,
+                55,
+                68,
+                45,
+                16,
+                25
+            ],
+            "boxes_19": [
+                35,
+                79,
+                91,
+                72,
+                37,
+                90
+            ],
+            "boxes_22": [
+                35,
+                69,
+                84,
+                78,
+                71
+            ],
+            "boxes_28": [
+                52,
+                33,
+                56,
+                43,
+                66,
+                22
+            ],
+            "boxes_29": [
+                91,
+                14,
+                18,
+                68,
+                25,
+                83
+            ],
+            "boxes_5": [
+                100,
+                52,
+                101,
+                48,
+                18,
+                6
+            ],
+            "boxes_6": [
+                81,
+                78,
+                45,
+                1,
+                42,
+                57
+            ],
+            "boxes_7": [
+                99,
+                69,
+                90,
+                75,
+                57
+            ],
+            "juggle_22": [
+                88,
+                33,
+                84,
+                37,
+                27,
+                6
+            ],
+            "juggle_5": [
+                67,
+                100,
+                49,
+                43,
+                84,
+                16
+            ],
+            "juggle_7": [
+                49,
+                79,
+                95,
+                90,
+                83,
+                4
+            ],
+            "juggle_8": [
+                59,
+                101,
+                56,
+                40,
+                41,
+                30
+            ],
+            "juggle_9": [
+                52,
+                89,
+                51,
+                7,
+                73,
+                48
+            ],
+            "softball_14": [
+                52,
+                33,
+                70,
+                21,
+                1,
+                47
+            ],
+            "softball_2": [
+                101,
+                79,
+                26,
+                77,
+                5,
+                71
+            ],
+            "softball_21": [
+                26,
+                64,
+                88,
+                39,
+                11,
+                29
+            ],
+            "softball_23": [
+                2,
+                101,
+                49,
+                5,
+                19,
+                83
+            ],
+            "softball_25": [
+                89,
+                18,
+                29,
+                28,
+                20,
+                82
+            ],
+            "softball_9": [
+                73,
+                85,
+                23,
+                54,
+                83,
+                10
+            ],
+            "tennis_2": [
+                63,
+                62,
+                64,
+                37,
+                53,
+                102
+            ],
+            "tennis_22": [
+                32,
+                30
+            ],
+            "tennis_23": [
+                33,
+                46,
+                58,
+                50
+            ],
+            "tennis_26": [
+                35,
+                33,
+                40,
+                34,
+                102
+            ],
+            "tennis_28": [
+                59,
+                55,
+                34,
+                42
+            ],
+            "tennis_5": [
+                58
+            ]
+        }
+    }
+}
